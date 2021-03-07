@@ -24,12 +24,6 @@
   <img align="left" alt="Albertosnp's instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />
 </a>
 
-```js
-const albertoSnp = {
-  pronouns: "me" | "him",
-  code: [JavaScript, PHP, Java, Html5, CSS3]
-}
-```
 
 <!--
 **Albertosnp/albertosnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
