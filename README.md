@@ -1,8 +1,8 @@
-### Hi there 👋 
+<h2 align="center">Hi there 👋 </h2>
 
 <p align="center" width="300">
-   <h3 align="center"><h3>I'm Alberto 👨🏼‍💻</h3>
-      <p align="center">Soy <strong>Desarrollador Full Stack</strong></p>
+   <h3 align="center">I'm Alberto 👨🏼‍💻</h3>
+   <p align="center">Soy <strong>Desarrollador Full Stack</strong></p>
 </p>
 
 
