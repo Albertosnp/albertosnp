@@ -9,6 +9,14 @@
 
 <br />
 <br />
+```js
+const albertoSnp = {
+  pronouns: "me" | "him",
+  code: [JavaScript, PHP, Java, Html5, CSS3]
+}
+```
+
+
 <!--
 **Albertosnp/albertosnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
