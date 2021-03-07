@@ -9,7 +9,9 @@
 
 <br />
 <br />
+
 ## About me in code...
+
 ```js
 const albertoSnp = {
   pronouns: "me" | "him",
