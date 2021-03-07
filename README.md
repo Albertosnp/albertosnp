@@ -1,8 +1,10 @@
 ### Hi there 👋 
+<p align="center" width="300">
+   <h3 align="center"><h3>I'm Alberto👨🏼‍💻</h3></h3>
+</p>
+<p align="center"><br />Soy <strong>Desarrollador Full Stack</strong></p>
 
-<p align="center"><h3>I'm Alberto</h3><br />Soy <strong>Desarrollador Full Stack</strong></p>
-
-### About me in code 👨🏼‍💻...
+### About me in code ...
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
