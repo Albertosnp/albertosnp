@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋 I'm Alberto 👨🏼‍💻</h2>
 <p align="center" width="300">
-   A <strong>Full Stack Developer</strong>
+   A passionate<strong>Full Stack Developer</strong>
 </p>
 
 
