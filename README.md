@@ -1,15 +1,5 @@
 ### Hi there 👋 I'm [Alberto!](https://albertosnp.github.io) 👋
 
-<a href="https://twitter.com/albertosnp">
-  <img align="left" alt="Albertosnp | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/u7An6akH">
-  <img align="left" alt="Albertosnp's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
-<br />
-<br />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/albertosnp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="albertosnp" height="30" width="40" /></a>
