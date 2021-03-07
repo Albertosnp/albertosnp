@@ -10,6 +10,20 @@
 <br />
 <br />
 
+<h1 align="center">Hi 👋, I'm Alberto</h1>
+<h3 align="center">A passionate developer from Madrid, Spain</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/albertosnp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="albertosnp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/albertosnp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="albertosnp" height="30" width="40" /></a>
+<a href="https://instagram.com/albertosnp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="albertosnp" height="30" width="40" /></a>
+<a href="https://discord.gg/s76yfjvrSs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Alberto#1079" height="30" width="40" /></a>
+</p>
+
+
+
+
 ## About me in code...
 
 ```js
@@ -18,7 +32,6 @@ const albertoSnp = {
   code: [JavaScript, PHP, Java, Html5, CSS3]
 }
 ```
-
 
 <!--
 **Albertosnp/albertosnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
