@@ -9,6 +9,7 @@
 
 <br />
 <br />
+
 ```js
 const albertoSnp = {
   pronouns: "me" | "him",
