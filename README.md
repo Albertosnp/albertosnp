@@ -1,6 +1,6 @@
-### Hi there 👋 I'm [Alberto!](https://albertosnp.github.io) 👋
+### Hi there 👋 
 
-<p align="center">Soy <strong>Desarrollador Full Stack</strong><br /></p>
+<p align="center">I'm [Alberto!](https://albertosnp.github.io)<br />Soy <strong>Desarrollador Full Stack</strong></p>
 
 ### About me in code 👨🏼‍💻...
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
