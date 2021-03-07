@@ -1,8 +1,7 @@
 <h2 align="center">Hi there 👋 </h2>
-
 <p align="center" width="300">
    <h3 align="center">I'm Alberto 👨🏼‍💻</h3>
-   <p align="center">Soy <strong>Desarrollador Full Stack</strong></p>
+   <p align="center">A <strong>Full Stack Developer</strong></p>
 </p>
 
 
