@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm [Alberto!](https://albertosnp.github.io) 👋
 
+<a href="https://twitter.com/albertosnp">
+  <img align="left" alt="Albertosnp | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/u7An6akH">
+  <img align="left" alt="Albertosnp's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+<br />
+<br />
 <!--
 **Albertosnp/albertosnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
