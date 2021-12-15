@@ -31,10 +31,6 @@
 <a href="https://www.linkedin.com/in/albertosnp/">
   <img align="left" alt="Albertosnp's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/albertosnp/">
-  <img align="left" alt="Albertosnp's instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />
-</a>
-
 
 <!--
 **Albertosnp/albertosnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
